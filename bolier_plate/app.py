@@ -1,1 +1,1 @@
-print("Hello Welcome to ECC")
+print("Hello Welcome to VPN")
