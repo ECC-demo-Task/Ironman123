@@ -1,2 +1,2 @@
-print("Welcome to ECC")
+print("Welcome to ECC Pune")
 
