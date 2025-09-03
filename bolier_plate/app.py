@@ -1,3 +1,3 @@
-print("Welcome to ECC")
+print("Hello World")
 
 
