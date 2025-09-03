@@ -1,2 +1,2 @@
-print("Hello Welcome to VPN")
-print("Welcome")
+print("Welcome to ECC")
+
