@@ -1,5 +1,5 @@
 
-print("Welcoem to Pune ")
+print("Welcoem to ECC ")
 
 
 
