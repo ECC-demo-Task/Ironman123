@@ -1,5 +1,5 @@
 
-print("Welcoem to ecc ")
+print("Welcoem to ECC ")
 
 
 
